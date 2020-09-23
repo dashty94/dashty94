@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dashty94&count_private=true&show_icons=true&include_all_commits=true" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashty94)](https://github.com/anuraghazra/github-readme-stats" />
 
 
 <!--
