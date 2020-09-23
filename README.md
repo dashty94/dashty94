@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=dashty94" />
+<img src="https://github-readme-stats.vercel.app/api?username=dashty94&count_private=true" />
 <!--
 **dashty94/dashty94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
