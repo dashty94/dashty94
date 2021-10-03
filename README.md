@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashty94&langs_count=8" /> -->
 
 <!--
