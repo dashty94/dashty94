@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /> -->
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashty94&langs_count=8" /> -->
+<!-- <img width="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashty94&langs_count=8" /> -->
 
 <!--
 **dashty94/dashty94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
